@@ -3,7 +3,7 @@
     extended = true
     min = '0.90.0'
 
-baseurl = "https://choubsi.roudy.xyz/"
+baseurl = "https://choubsi.github.io/"
 languageCode = "en-us"
 theme = "hugo-theme-terminal"
 pagination.pagerSize = 5
@@ -29,7 +29,7 @@ pagination.pagerSize = 5
 
     [languages.en.params.logo]
       logoText = "choubsi"
-      logoHomeLink = "/"
+      logoHomeLink = "/hugo-theme-terminal"
 
         [languages.en.menu]
     [[languages.en.menu.main]]
